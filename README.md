@@ -16,7 +16,3 @@ Puedes encontrar la documentación completa de este proyecto en nuestra [Wiki](h
 * Jose Rivera
 * Rebeca Gamboa
 * Wendy Barreda
-
-## Créditos
-[Plantilla de README](https://gist.github.com/Villanuevand/6386899f70346d4580c723232524d35a)
-
