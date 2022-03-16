@@ -1,4 +1,4 @@
-# MIAD - Panorama de la educación mundial de 2010 a 2019 y la necesidad de estrategias para la población infantil 
+# MIAD - Panorama de la educación mundial de 2010 a 2019
 
 En el siguiente espacio puedes encontrar la documentación del proyecto _Panorama de la educación mundial de 2010 a 2019 y la necesidad de estrategias para la población infantil_ el cual consiste en la creación de un sitio Web donde se muestran algunos datos relevantes respecto a la educación. Estos datos fueron obtenidos del sitio [UNITED NATIONS DEVELOPMENT PROGRAMME](https://hdr.undp.org/en/data)
 
