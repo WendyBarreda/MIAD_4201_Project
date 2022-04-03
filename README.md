@@ -6,6 +6,7 @@ El proyecto se divide en dos componentes principales:
 * Extracción y modelado de datos 
 * Publicación del sitio web
 
+
 ## Wiki
 
 Puedes encontrar la documentación completa de este proyecto en nuestra [Wiki](https://github.com/WendyBarreda/MIAD_4201_Project/wiki/Documentaci%C3%B3n-Proyecto)
